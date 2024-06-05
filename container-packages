@@ -132,6 +132,7 @@ utilities_list+=(
 	pip
 	sudo
 	ssh
+	git
 )
 
 vnc_list+=(
